@@ -1,5 +1,3 @@
 #!/bin/sh
 echo "Hello world"
 echo "Hello Mohan"
-echo "Hello Ram"
-
