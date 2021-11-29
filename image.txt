@@ -1,0 +1,14 @@
+FROM ubuntu
+
+LABLE "about"="This file is just am example to demonstarte LABLE"
+
+ENV workdirectory /usr/node
+
+WORKDIR $workdirectory
+WORKDIR app
+
+COPY package.json
+
+RUN la -al
+#command executable and version
+ENTRYPOINT["node"]
