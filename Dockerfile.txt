@@ -9,5 +9,4 @@ CMD ["echo","Image created"]
 CMD ["echo","Image run"]
 =======
 CMD ["echo","radhika"]
->>>>>>> 1a3e442c119500a952f6f4fb6100bd2a4033301c
 radhika
