@@ -12,3 +12,4 @@ COPY package.json
 RUN la -al
 #command executable and version
 ENTRYPOINT["node"]
+sample
