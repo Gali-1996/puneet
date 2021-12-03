@@ -5,3 +5,4 @@
       - name: create sample file
      path: "/etc/lib/sample.txt"
      state: touch
+     cdd
