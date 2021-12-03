@@ -1,0 +1,7 @@
+---
+- host :local hosta
+  tasks:
+    file:
+      - name: create sample file
+     path: "/etc/lib/sample.txt"
+     state: touch
