@@ -6,4 +6,10 @@ Radhika gali
 chnadrika gali
 santhu gali
 radhika gali
+<<<<<<< HEAD
 good chnace
+=======
+chandrika gali
+dfdfd
+
+>>>>>>> a3d3073... commmit message
