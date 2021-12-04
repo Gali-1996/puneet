@@ -1,0 +1,4 @@
+FROM ubuntu
+MAINTAINER galiradhika1996@gmail.com
+RUN yum install -y httpd
+CMD ["echo","web image created]
