@@ -2,3 +2,8 @@ FROM ubuntu
 MAINTAINER galiradhika1996@gmail.com
 RUN yum install -y httpd
 CMD ["echo","web image created]
+Radhika gali
+chnadrika gali
+santhu gali
+radhika gali
+chandrika gali
