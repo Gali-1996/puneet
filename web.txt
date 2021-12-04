@@ -5,3 +5,6 @@ CMD ["echo","web image created]
 Radhika gali
 chnadrika gali
 santhu gali
+radhika gali
+chandrika gali
+
